@@ -2,6 +2,8 @@
 
 A counter that automatically pulls information from the <a href="https://trap.nz" target="_blank">Trap.NZ</a> API for single or multiple projects.
 
+<a href="https://kimberleycollins.github.io/trapnzcounter/" target="_blank">https://kimberleycollins.github.io/trapnzcounter/</a>
+
 Allows you to add base numbers to the total count, e.g. if catches have occured but are not currently stored within Trap.NZ.
 
 Can be hosted on a website to show the total impact of predator control efforts.
