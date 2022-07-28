@@ -33,3 +33,24 @@ div.text {
   font-size: 18px;
   text-transform: uppercase;
 }
+
+@media only screen and (max-width: 1024px) {
+  /* For mobile phones: */
+  div.column {
+    width: 25%;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  /* For mobile phones: */
+  div.column {
+    width: 50%;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  /* For mobile phones: */
+  div.column {
+    width: 100%;
+  }
+}
