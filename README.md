@@ -10,4 +10,4 @@ Can be hosted on a website to show the total impact of predator control efforts.
 
 Trap.NZ projects need to be public in order for this to work.
 
-Developed by <a href="https://twitter.com/kimi_collins/" target="_blank">Kimberley Collins</a> (<a href="https://predatorfreedunedin.org" target="_blank">Predator Free Dunedin</a>) and <a href="https://twitter.com/HonestUniverse/" target="_blank">Mark Hanna</a> (Javascript savant) for anyone to use under a <a href="https://creativecommons.org/share-your-work/public-domain/cc0/" target="_blank">CC0 License</a>.
+Developed by <a href="https://github.com/kimberleycollins" target="_blank">Kimberley Collins</a> (<a href="https://predatorfreedunedin.org" target="_blank">Predator Free Dunedin</a>) and <a href="https://github.com/cipscis" target="_blank">Mark Hanna</a> (Javascript savant) for anyone to use under a <a href="https://creativecommons.org/share-your-work/public-domain/cc0/" target="_blank">CC0 License</a>.
