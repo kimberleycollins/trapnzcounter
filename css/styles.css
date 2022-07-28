@@ -1,0 +1,31 @@
+img.icon {
+  width: 250px;
+  margin: auto;
+  display: block;
+}
+
+div.row {
+  width: 100%;
+  font-family: Montserrat, sans-serif;
+  color: #fff;
+}
+
+div.column {
+  text-align: center;
+  position: relative;
+  display: inline;
+  display: inline-block;
+  float: left;
+  width: 20%;
+}
+
+div.number {
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 70px;
+}
+
+div.text {
+  font-size: 18px;
+  text-transform: uppercase;
+}
