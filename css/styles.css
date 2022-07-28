@@ -1,3 +1,9 @@
+body {
+  width: 100%;
+  font-family: Montserrat, sans-serif;
+  color: #222;
+}
+
 img.icon {
   width: 250px;
   margin: auto;
@@ -14,9 +20,7 @@ div.column {
   display: inline;
   display: inline-block;
   float: left;
-  width: 20%;
-  font-family: Montserrat, sans-serif;
-  color: #222;
+  width: 25%;
 }
 
 div.number {
