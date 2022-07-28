@@ -6,8 +6,6 @@ img.icon {
 
 div.row {
   width: 100%;
-  font-family: Montserrat, sans-serif;
-  color: #fff;
 }
 
 div.column {
@@ -17,6 +15,8 @@ div.column {
   display: inline-block;
   float: left;
   width: 20%;
+  font-family: Montserrat, sans-serif;
+  color: #fff;
 }
 
 div.number {
