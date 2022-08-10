@@ -4,6 +4,10 @@ A counter that automatically pulls information from the <a href="https://trap.nz
 
 <a href="https://kimberleycollins.github.io/trapnzcounter/" target="_blank">https://kimberleycollins.github.io/trapnzcounter/</a>
 
+Light style
+<a href="https://kimberleycollins.github.io/trapnzcounter/light.html" target="_blank">https://kimberleycollins.github.io/trapnzcounter/light.html</a>
+
+
 <a href="https://kimberleycollins.github.io/trapnzcounter/" target="_blank"><img src="img/trapcounterexample.png"></a>
 
 Allows you to add base numbers to the total count, e.g. if catches have occured but are not currently stored within Trap.NZ.
