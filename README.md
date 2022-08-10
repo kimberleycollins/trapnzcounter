@@ -4,8 +4,7 @@ A counter that automatically pulls information from the <a href="https://trap.nz
 
 <a href="https://kimberleycollins.github.io/trapnzcounter/" target="_blank">https://kimberleycollins.github.io/trapnzcounter/</a>
 
-Light style
-<a href="https://kimberleycollins.github.io/trapnzcounter/light.html" target="_blank">https://kimberleycollins.github.io/trapnzcounter/light.html</a>
+<a href="https://kimberleycollins.github.io/trapnzcounter/light.html" target="_blank">Also available with white icons on a dark background.</a>
 
 
 <a href="https://kimberleycollins.github.io/trapnzcounter/" target="_blank"><img src="img/trapcounterexample.png"></a>
