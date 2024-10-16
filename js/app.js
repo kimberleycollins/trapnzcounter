@@ -3,10 +3,10 @@
         const sources = [
           
           // This is where you enter the ID for your project(s). Your project must be listed as public on Trap.NZ for this to function.
-          
-          "4237918", // City Sanctuary
-          "1570932", // Halo Project
-              "1721212," // Possum Free Peninsula
+
+              "4237918", // City Sanctuary
+              "1570932", // Halo Project
+              "1721212", // Possum Free Peninsula
               "15047129", // Predator Free Dunedin
               "10374280", // Aroha Kaikorai Valley
               "2887367", // Brighton Trapping Group
