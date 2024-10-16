@@ -16,10 +16,10 @@
         // Change the numbers to 0 if you don't want to introduce any additional devices or kills.
 
         const totals = {
-          devices: 10,
-          Possum: 20000,
-          Rat: 100,
-          Mustelid: 30,
+          devices: 0,
+          Possum: 0,
+          Rat: 0,
+          Mustelid: 0,
         };
 
         const promises = [];
