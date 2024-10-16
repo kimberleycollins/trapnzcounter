@@ -14,7 +14,7 @@
               "8470604", // Hikararoa
               "2701489", // Whakahekerau - Second Beach Ecology Action
               "13067734" // Te Nukuroa o Matamata
-          
+
         ].map((id) => `https://www.trap.nz/project/${id}/killcount.json`);
 
         // This is where you can add any additional numbers for your project. 
