@@ -5,7 +5,7 @@
           // This is where you enter the ID for your project(s). Your project must be listed as public on Trap.NZ for this to function.
           
           "4237918", // City Sanctuary
-          "1570932", // Halo Project
+          "1570932" // Halo Project
           
         ].map((id) => `https://www.trap.nz/project/${id}/killcount.json`);
 
