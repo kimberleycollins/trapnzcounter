@@ -7,13 +7,7 @@
               "4237918", // City Sanctuary
               "1570932", // Halo Project
               "1721212", // Possum Free Peninsula
-              "15047129", // Predator Free Dunedin
-              "10374280", // Aroha Kaikorai Valley
-              "2887367", // Brighton Trapping Group
-              "1189594", // Chain Hills Restoration Project
-              "8470604", // Hikararoa
-              "2701489", // Whakahekerau - Second Beach Ecology Action
-              "13067734" // Te Nukuroa o Matamata
+              "15047129" // Predator Free Dunedin
 
         ].map((id) => `https://www.trap.nz/project/${id}/killcount.json`);
 
